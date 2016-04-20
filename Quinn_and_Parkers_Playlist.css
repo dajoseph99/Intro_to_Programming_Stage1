@@ -1,0 +1,42 @@
+
+}
+.italic {
+    font-style: italic;
+}
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+.big-box{
+  background-color: red;
+}
+.playlist{
+    float:left;
+    text-align: center;
+    background-color:purple;
+    border: 3px solid green;
+    width: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.whos-playlist {
+    background-color:pink;
+    margin: auto;
+    border: 3px solid green;
+}
+
+.song-title {
+    background-color:pink;
+    margin: auto;
+    border: 3px solid green;
+    word-wrap: break-word;
+}
+.video-box iframe	{
+  width:auto;
+  border: 3px solid green;
+
+}
